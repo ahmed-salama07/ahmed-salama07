@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="https://raw.githubusercontent.com/ahmed-salama07/ahmed-salama07/main/github-profile.png" width="30%">
 <h1>
   Hi There I'm Ahmed Salama 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -30,9 +30,9 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-salama07&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-salama07&layout=compact)
 <br>
-<a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=ahmed-salama07&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=ahmed-salama07&style=for-the-badge">
 </a>
